@@ -1,0 +1,136 @@
+//ACTION 2022 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+if (message.content.startsWith("&5396")) {
+    let dateaction = new Date()
+let useraction = message.author.tag
+fs.appendFile('blueskinBot.log', `\n${dateaction} --- : ${useraction} à éxécuter la commande : 2022`, function (err) {
+    if (err) throw err;
+    console.log('New action, see blueskinBot.log file to view this new action');
+         });
+let timetoaction = setTimeout(action, 1);
+function action() {
+    message.delete()
+    message.channel.send("**__5__**");
+    let time = setTimeout(waitstop5, 1000);
+    function waitstop5() {
+        message.channel.send("**__4__**");
+        let time = setTimeout(waitstop4, 1000);
+        function waitstop4() {
+            message.channel.send("**__3__**");
+            let time = setTimeout(waitstop3, 1000);
+            function waitstop3() {
+                message.channel.send("**__2__**");
+                let time = setTimeout(waitstop2, 1000);
+                function waitstop2() {
+                    message.channel.send("**__1__**");
+                    let time = setTimeout(waitstop, 1000);
+                    function waitstop() {
+                        message.channel.send("**__@everyone BONNES FETES ET JOYEUSE ANNEE __**__2022__")
+                        message.channel.send("http://ekladata.com/e4v3joaa5qpmKUpZJPWQq7XB1so.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                                message.channel.send("http://ekladata.com/2mU_SHjRz3yjcToQeorlV3Kltrw.jpg")
+                    }}}}}
+}}

@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "demo for life module",
+  "author": "semibran (Brandon Semilla)",
+  "repository": "semibran/test",
+  "license": "MIT",
+  "main": "src/script.js",
+  "keywords": [],
+  "devDependencies": {
+    "autoprefixer": "*",
+    "babel-cli": "*",
+    "babel-preset-env": "*",
+    "clean-css-cli": "*",
+    "gh-pages": "*",
+    "html-minifier": "*",
+    "node-sass": "*",
+    "postcss-cli": "*",
+    "rollup": "*",
+    "rollup-plugin-commonjs": "*",
+    "rollup-plugin-json": "*",
+    "rollup-plugin-node-resolve": "*",
+    "uglify-js": "*"
+  }
+}
